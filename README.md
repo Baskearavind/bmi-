@@ -1,4 +1,4 @@
- poen cmd
+ open cmd
  
  
  cd https://github.com/Baskearavind/bmi-.git
