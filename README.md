@@ -1,7 +1,7 @@
  open cmd
  
  
- cd https://github.com/Baskearavind/bmi-.git
-
+git clone https://github.com/Baskearavind/bmi-.git
+cd bmi
 pip install -r requirements.txt
 streamlit run app.py
